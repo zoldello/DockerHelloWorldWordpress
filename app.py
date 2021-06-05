@@ -1,0 +1,1 @@
+print('Possible Nucleotides for a DNA `Sequence: \'A\', \'C\', \'T\', \'G\'')
