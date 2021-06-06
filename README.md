@@ -19,10 +19,10 @@ The components of the code are:
 Discussion of the other files are outside the scope of this tutorial. You can use your favorite search engine to find out their purpose.
 
 ## Create an image
-``sudo docker build -t python-build``
+``sudo docker build -t dna-nucleotides``
 
 ## create a container
-``sudo docker run python-build``
+``sudo docker run dna-nucleotides``
 
 # To find a container id, run the following command
 ``sudo docker container ls -a``
